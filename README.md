@@ -1,0 +1,2 @@
+# Menorah
+Arduino Automated Menorah
